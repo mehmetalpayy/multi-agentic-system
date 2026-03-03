@@ -112,12 +112,6 @@ With `uv`:
 uv sync
 ```
 
-or with `pip`:
-
-```bash
-pip install -e .
-```
-
 ## Run
 
 Start interactive session:
