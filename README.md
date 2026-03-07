@@ -71,7 +71,7 @@ The objective of this repository is to provide a clean, extensible baseline for:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mehmetalpayy/multi-agentic-system.git
 cd multi-agentic-system
 ```
 
